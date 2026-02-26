@@ -14,8 +14,9 @@
 
 
 <p align="right">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Hacker GIF" width="300"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Matrix Code Rain" width="300"/>
 </p>
+
 
 
 ---
