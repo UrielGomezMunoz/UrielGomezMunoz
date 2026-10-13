@@ -3,7 +3,7 @@
 🎓 Student of Computer Science from **Mexico**
 
 
-💻 Currently learning **C++** and improving my skills in **Python**
+💻 Currently learning **C++** and improving my skills in **JAVA**
 
 
 ⚡ Passionate about modular coding and input validation  
